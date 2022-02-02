@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @romulorla
-- 👀 I’m interested in IoT, Industrial Automation, Data Acquisition and a little bit of Web App development.
-- 🌱 I’m currently learning Javascript.
+- 👀 I’m interested in IoT, Industrial Automation, Data Acquisition and Web App development.
+- 🌱 I’m currently learning NodeJS and Laravel.
 - 💞️ I’m looking to collaborate on IoT projects.
 - 📫 How to reach me: through GitHub.
 
